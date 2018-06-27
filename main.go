@@ -32,7 +32,6 @@ var (
 
 func main() {
 	excode := 0
-
 	conf := parseFlags()
 
 	if versionFlag {
